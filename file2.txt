@@ -1,1 +1,2 @@
 This file is no longer empty!
+File2 has a second line now.
